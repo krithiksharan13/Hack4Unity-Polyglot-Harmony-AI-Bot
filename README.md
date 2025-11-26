@@ -15,7 +15,7 @@ A tool that understands how _we_ speak — not how a textbook expects us to.
 
 # 👥 Contributors
 
-- **Krithik Sharan Suresh Alagianayag**
+- **Krithik Sharan Suresh Alagianayagi**
 - **Uday Kiran Reddy Mule**
 - **Nithyashree Babu**
 - **Haritej Karimisetti**
@@ -105,6 +105,7 @@ Perfect for group projects, international collaborations, or mixed-language team
 - Improved dialect and accent support
 - Group mediation mode
 - Emotional tone and politeness adjustments
+- Improvements in User Interface based on User Feedback
 
 ---
 
